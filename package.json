@@ -1,0 +1,33 @@
+{
+  "name": "supergroup",
+  "version": "1.0.0",
+  "description": "SuperGroup based on WeChaty",
+  "main": "index.ts",
+  "dependencies": {
+    "file-box": "^0.8.22",
+    "finis": "^0.4.2",
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "^0.17.15"
+  },
+  "devDependencies": {
+    "@types/node": "^10.3.5",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinbenlv/supergroup.git"
+  },
+  "keywords": [
+    "wechaty"
+  ],
+  "author": "Zainan Victor Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinbenlv/supergroup/issues"
+  },
+  "homepage": "https://github.com/xinbenlv/supergroup#readme"
+}
